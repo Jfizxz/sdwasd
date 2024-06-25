@@ -1,0 +1,61 @@
+{
+  "_version": "2.1.0",
+  "_songName": "旅人",
+  "_songSubName": "",
+  "_songAuthorName": "Kaya",
+  "_levelAuthorName": "akawshi",
+  "_beatsPerMinute": 121.0,
+  "_songTimeOffset": 0.0,
+  "_shuffle": 0.0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 112.857,
+  "_previewDuration": 10.0,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.png",
+  "_environmentName": "BillieEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_environmentNames": [],
+  "_colorSchemes": [],
+  "_customData": {
+    "_editors": {
+      "_lastEditedBy": "ChroMapper",
+      "ChroMapper": {
+        "version": "0.10.763"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 14.0,
+          "_noteJumpStartBeatOffset": 0.0,
+          "_beatmapColorSchemeIdx": 0,
+          "_environmentNameIdx": 0,
+          "_customData": {
+            "_suggestions": [
+              "Chroma"
+            ],
+            "_requirements": [
+              "Noodle Extensions"
+            ],
+            "_colorLeft": {
+              "r": 0.941,
+              "g": 0.188,
+              "b": 0.188
+            },
+            "_colorRight": {
+              "r": 0.188,
+              "g": 0.62,
+              "b": 1
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "_version" : "2.0.0",
+  "_songSampleCount" : 9350449,
+  "_songFrequency" : 48000,
+  "_regions" : [
+    {
+      "_startSampleIndex" : 0,
+      "_endSampleIndex" : 3691812,
+      "_startBeat" : 0,
+      "_endBeat" : 191
+    },
+    {
+      "_startSampleIndex" : 3691812,
+      "_endSampleIndex" : 3835812,
+      "_startBeat" : 191,
+      "_endBeat" : 199
+    },
+    {
+      "_startSampleIndex" : 3835812,
+      "_endSampleIndex" : 3850969,
+      "_startBeat" : 199,
+      "_endBeat" : 200
+    },
+    {
+      "_startSampleIndex" : 3850969,
+      "_endSampleIndex" : 6797946,
+      "_startBeat" : 200,
+      "_endBeat" : 376
+    },
+    {
+      "_startSampleIndex" : 6797946,
+      "_endSampleIndex" : 6815400,
+      "_startBeat" : 376,
+      "_endBeat" : 377
+    },
+    {
+      "_startSampleIndex" : 6815400,
+      "_endSampleIndex" : 6851400,
+      "_startBeat" : 377,
+      "_endBeat" : 379
+    },
+    {
+      "_startSampleIndex" : 6851400,
+      "_endSampleIndex" : 8475024,
+      "_startBeat" : 379,
+      "_endBeat" : 463
+    },
+    {
+      "_startSampleIndex" : 8475024,
+      "_endSampleIndex" : 8530766,
+      "_startBeat" : 463,
+      "_endBeat" : 466
+    },
+    {
+      "_startSampleIndex" : 8530766,
+      "_endSampleIndex" : 8567454,
+      "_startBeat" : 466,
+      "_endBeat" : 468
+    },
+    {
+      "_startSampleIndex" : 8567454,
+      "_endSampleIndex" : 8655259,
+      "_startBeat" : 468,
+      "_endBeat" : 473
+    },
+    {
+      "_startSampleIndex" : 8655260,
+      "_endSampleIndex" : 9350449,
+      "_startBeat" : 473,
+      "_endBeat" : 514.51823
+    }
+  ]
+}

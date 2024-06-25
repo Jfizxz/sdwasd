@@ -1,0 +1,46 @@
+{
+  "_version": "2.1.0",
+  "_songName": "Passing Through ",
+  "_songSubName": "(Can't The Future Just Wait) ",
+  "_songAuthorName": "Kaden MacKay ",
+  "_levelAuthorName": "BanditByTheStreet ",
+  "_beatsPerMinute": 149.0,
+  "_songTimeOffset": 0.0,
+  "_shuffle": 0.0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12.0,
+  "_previewDuration": 10.0,
+  "_songFilename": "Passing_Through_Cant_the_Future_Just_Wait.egg",
+  "_coverImageFilename": "passing (1).jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_environmentNames": [],
+  "_colorSchemes": [],
+  "_customData": {
+    "_editors": {
+      "_lastEditedBy": "ChroMapper",
+      "ChroMapper": {
+        "version": "0.10.765"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 16.0,
+          "_noteJumpStartBeatOffset": -0.5,
+          "_beatmapColorSchemeIdx": 0,
+          "_environmentNameIdx": 0,
+          "_customData": {
+            "_difficultyLabel": "Let Time Pass Through "
+          }
+        }
+      ]
+    }
+  ]
+}

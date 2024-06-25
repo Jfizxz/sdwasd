@@ -1,0 +1,68 @@
+{
+  "_version": "2.1.0",
+  "_songName": "Careful What You Wish For",
+  "_songSubName": "the doctor said to",
+  "_songAuthorName": "Jack Harris",
+  "_levelAuthorName": "derfuxde",
+  "_beatsPerMinute": 130.0,
+  "_songTimeOffset": 0.0,
+  "_shuffle": 0.0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 44.0,
+  "_previewDuration": 20.0,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.png",
+  "_environmentName": "BigMirrorEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_environmentNames": [],
+  "_colorSchemes": [],
+  "_customData": {
+    "_editors": {
+      "_lastEditedBy": "ChroMapper",
+      "ChroMapper": {
+        "version": "0.10.763"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 16.0,
+          "_noteJumpStartBeatOffset": -0.307,
+          "_beatmapColorSchemeIdx": 0,
+          "_environmentNameIdx": 0,
+          "_customData": {
+            "_suggestions": [
+              "Chroma"
+            ],
+            "_colorLeft": {
+              "r": 0.632,
+              "g": 0,
+              "b": 0
+            },
+            "_colorRight": {
+              "r": 0.869,
+              "g": 0.511,
+              "b": 0
+            },
+            "_envColorLeft": {
+              "r": 0.632,
+              "g": 0,
+              "b": 0
+            },
+            "_envColorRight": {
+              "r": 0.869,
+              "g": 0.511,
+              "b": 0
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "_version": "2.1.0",
+  "_songName": "I Hate What I Am",
+  "_songSubName": "",
+  "_songAuthorName": "joz",
+  "_levelAuthorName": "VoltageO",
+  "_beatsPerMinute": 227.0,
+  "_songTimeOffset": 0.0,
+  "_shuffle": 0.0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 6.5,
+  "_previewDuration": 10.0,
+  "_songFilename": "notfunanymore.egg",
+  "_coverImageFilename": "image_2024-06-25_164006193.png",
+  "_environmentName": "DefaultEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_environmentNames": [],
+  "_colorSchemes": [],
+  "_customData": {
+    "_editors": {
+      "_lastEditedBy": "ChroMapper",
+      "ChroMapper": {
+        "version": "0.8.626"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 21.0,
+          "_noteJumpStartBeatOffset": -0.3,
+          "_beatmapColorSchemeIdx": 0,
+          "_environmentNameIdx": 0,
+          "_customData": {
+            "_difficultyLabel": "r-tech"
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 21.0,
+          "_noteJumpStartBeatOffset": -0.3,
+          "_beatmapColorSchemeIdx": 0,
+          "_environmentNameIdx": 0,
+          "_customData": {
+            "_difficultyLabel": "vibro (no cheesing/reseting)"
+          }
+        }
+      ]
+    }
+  ]
+}

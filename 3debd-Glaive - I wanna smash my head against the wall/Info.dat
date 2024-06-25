@@ -1,0 +1,71 @@
+{
+  "_version": "2.0.0",
+  "_songName": "i wanna slam my head against the wall",
+  "_songSubName": "",
+  "_songAuthorName": "glaive",
+  "_levelAuthorName": "Malo",
+  "_beatsPerMinute": 182.231,
+  "_songTimeOffset": 0.0,
+  "_shuffle": 0.0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 13.0,
+  "_previewDuration": 111.0,
+  "_songFilename": "i wanna slam my head against the wall.egg",
+  "_coverImageFilename": "slammyhead.png",
+  "_environmentName": "DefaultEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_editors": {
+      "_lastEditedBy": "MMA2",
+      "MMA2": {
+        "version": "4.8.4"
+      },
+      "ChroMapper": {
+        "version": "0.9.690"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 19.0,
+          "_noteJumpStartBeatOffset": 0.0,
+          "_customData": {
+            "_difficultyLabel": "Dance",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [
+              "Mapping Extensions"
+            ]
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 19.0,
+          "_noteJumpStartBeatOffset": 0.0,
+          "_customData": {
+            "_difficultyLabel": "Dance",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [
+              "Mapping Extensions"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

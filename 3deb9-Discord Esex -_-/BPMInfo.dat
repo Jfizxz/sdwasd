@@ -1,0 +1,13 @@
+{
+  "_version" : "2.0.0",
+  "_songSampleCount" : 799696,
+  "_songFrequency" : 48000,
+  "_regions" : [
+    {
+      "_startSampleIndex" : 0,
+      "_endSampleIndex" : 799696,
+      "_startBeat" : 0,
+      "_endBeat" : 37.485
+    }
+  ]
+}
